@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ftTGMWcn9bg/ng1632YQWjK3Qv1uB9WCgxsd9Wg1jIY=",
+  "Source": "MongoDbBookApi",
+  "BasePath": "_content/MongoDbBookApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
